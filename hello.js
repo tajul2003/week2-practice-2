@@ -99,4 +99,4 @@ const Details = (mealId) => {
         });
 }
 
- DisplaySearchItem();
+// DisplaySearchItem();
